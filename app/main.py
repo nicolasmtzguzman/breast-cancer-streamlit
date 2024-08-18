@@ -157,6 +157,7 @@ def add_predictions(input_data):
 
 
 def main():
+  # Set main page
   st.set_page_config(
     page_title="Breast Cancer Predictor",
     page_icon=":heartpulse:",
